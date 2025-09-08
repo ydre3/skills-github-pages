@@ -1,1 +1,19 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="icon-mark" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/></symbol>
+  <symbol id="icon-menu" viewBox="0 0 24 24"><path d="M3 6h18M3 12h18M3 18h18"/></symbol>
+  <symbol id="icon-phone" viewBox="0 0 24 24"><path d="M6 4l4 4-2 2a12 12 0 0 0 6 6l2-2 4 4-3 3c-6 0-15-9-15-15l3-3z"/></symbol>
+  <symbol id="icon-mail" viewBox="0 0 24 24"><path d="M3 6h18v12H3z"/><path d="M3 7l9 6 9-6"/></symbol>
+  <symbol id="icon-briefcase" viewBox="0 0 24 24"><path d="M8 7V5h8v2"/><path d="M3 9h18v10H3z"/></symbol>
+  <symbol id="icon-works" viewBox="0 0 24 24"><path d="M3 21l7-7M10 14l4 4M14 5l5 5M16 3l5 5"/></symbol>
+  <symbol id="icon-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 10v6M12 7h.01"/></symbol>
+  <symbol id="icon-user" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c2-4 14-4 16 0"/></symbol>
+  <symbol id="icon-news" viewBox="0 0 24 24"><path d="M4 6h14v12H4z"/><path d="M18 8h2v10H6"/></symbol>
+  <symbol id="icon-road" viewBox="0 0 24 24"><path d="M10 22l2-20M4 22h6M14 22h6"/></symbol>
+  <symbol id="icon-cone" viewBox="0 0 24 24"><path d="M12 3l7 16H5z"/></symbol>
+  <symbol id="icon-shield" viewBox="0 0 24 24"><path d="M12 3l8 3v6c0 5-3.5 8.5-8 9-4.5-.5-8-4-8-9V6z"/></symbol>
+  <symbol id="icon-leaf" viewBox="0 0 24 24"><path d="M4 14c6 0 10-8 16-8-2 8-8 12-16 12" /></symbol>
+  <symbol id="icon-users" viewBox="0 0 24 24"><circle cx="8" cy="9" r="3"/><circle cx="16" cy="11" r="3"/><path d="M2 21c2-4 10-4 12 0M10 21c2-4 8-4 10 0"/></symbol>
+  <symbol id="icon-award" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M8 12l-2 8 6-3 6 3-2-8"/></symbol>
+  <symbol id="icon-check" viewBox="0 0 24 24"><path d="M4 12l5 5 11-11"/></symbol>
+  <symbol id="icon-home" viewBox="0 0 24 24"><path d="M3 11l9-7 9 7v9H3z"/><path d="M9 20v-6h6v6"/></symbol>
+</svg>
